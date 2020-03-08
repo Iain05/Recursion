@@ -1,7 +1,7 @@
 import java.util.*;
 class Main {
   	public static void main(String[] args) {
-		//   Scanner num = new Scanner(System.in);
+		//Scanner num = new Scanner(System.in);
   	}
 	
 	public static long factorial(int num) {
